@@ -9,6 +9,7 @@ public class TestDAOImpl {
 
 		System.out.println("debut insert2");
 		
+		System.out.println("modif distante");
 		
 	}
 
