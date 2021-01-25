@@ -6,6 +6,7 @@ public class TestDAOImpl {
 		System.out.println("debut insert");
 
 		System.out.println("modif local");
+		System.out.println("modif local2");
 
 		System.out.println("debut insert2");
 		
